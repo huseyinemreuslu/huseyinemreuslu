@@ -9,8 +9,6 @@
 
 - I worked as Flutter Developer in this project. [Kansere Karşı Adım At](https://play.google.com/store/apps/details?id=com.kanserekarsiadimat.adimsayar&hl=tr&gl=US)
 
-- 📝 I regularly write articles on [https://huseyinemreuslu.com.tr](https://huseyinemreuslu.com.tr)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/huseyinemreus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huseyinemreus" height="30" width="40" /></a>
