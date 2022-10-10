@@ -9,7 +9,7 @@
 
 - I worked as Flutter Developer in this project. [Kansere Karşı Adım At](https://play.google.com/store/apps/details?id=com.kanserekarsiadimat.adimsayar&hl=tr&gl=US)
 
-- 📝 I regularly write articles on [huseyinemreuslu.com.tr](huseyinemreuslu.com.tr)
+- 📝 I regularly write articles on [https://huseyinemreuslu.com.tr](https://huseyinemreuslu.com.tr)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
