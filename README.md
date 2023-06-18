@@ -5,7 +5,7 @@
 
 - I’m currently working as a Software Developer on [CCR GROUP](https://ccr.group)
 
-- I’m currently working on as Backend Node.js Developer [Prep-Test](https://prep-test.com)
+- I worked as Backend Node.js Developer [Prep-Test](https://prep-test.com)
 
 - I worked as Backend Node.js Developer in this project. [Pro-e](https://play.google.com/store/apps/details?id=tr.edu.mcbu.proe)
 
