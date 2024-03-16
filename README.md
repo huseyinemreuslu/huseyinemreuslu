@@ -5,11 +5,11 @@
 
 - I’m currently working as a Software Developer on [CCR GROUP](https://ccr.group)
 
-- I worked as Backend Node.js Developer [Prep-Test](https://prep-test.com)
+- I worked as Full Stack Developer Developer [Prep-Test](https://prep-test.com)
 
-- I worked as Backend Node.js Developer in this project. [Pro-e](https://play.google.com/store/apps/details?id=tr.edu.mcbu.proe)
+- I worked as Mobile Developer in this project. [Pro-e](https://play.google.com/store/apps/details?id=tr.edu.mcbu.proe)
 
-- I worked as Flutter Developer in this project. [Kansere Karşı Adım At](https://play.google.com/store/apps/details?id=com.kanserekarsiadimat.adimsayar&hl=tr&gl=US)
+- I worked as Mobile Developer in this project. [Kansere Karşı Adım At](https://play.google.com/store/apps/details?id=com.kanserekarsiadimat.adimsayar&hl=tr&gl=US)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
