@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyinemreuslu&label=Profile%20views&color=0e75b6&style=flat" alt="huseyinemreuslu" /> </p>
 
-- I’m currently working as a Full Stack Developer on [CCR GROUP](https://ccr.group)
+- I’m currently working as a Software Engineer on [CCR GROUP](https://ccr.group)
 
 - I worked as Full Stack Developer Developer [Prep-Test](https://prep-test.com)
 
