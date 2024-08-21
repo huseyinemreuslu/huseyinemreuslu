@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyinemreuslu&label=Profile%20views&color=0e75b6&style=flat" alt="huseyinemreuslu" /> </p>
 
-- I’m currently working as a Software Engineer on [Fiyuu](https://fiyuu.com.tr)
+- I’m currently working as a Software Engineer at [Fiyuu](https://fiyuu.com.tr)
 
 I worked as Full Stack Developer Developer [Ccr Group](https://ccr.group
 
