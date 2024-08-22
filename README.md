@@ -5,7 +5,7 @@
 
 - I’m currently working as a Software Engineer at [Fiyuu](https://fiyuu.com.tr)
 
-I worked as Full Stack Developer Developer [Ccr](https://ccr.group)
+- I worked as Full Stack Developer Developer [Ccr](https://ccr.group)
 
 - I worked as Full Stack Developer Developer [Prep-Test](https://prep-test.com)
 
